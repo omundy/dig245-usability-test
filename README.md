@@ -50,9 +50,9 @@ Each group member will individually design and code their own single-page websit
   1. Research similar designs and try new things out. Use the actual content of your report in the design.
 1. HTML/CSS
   1. Once you have a satisfactory design, code your design inside `index.html`.
-  1. Use the Bootstrap framework and a single page design (for example [webflow.com](https://webflow.com), [humaaans.com](https://humaaans.com)).
+  1. Use the Bootstrap framework and a [single page design](https://www.google.com/search?q=single+page+design) (for example [webflow.com](https://webflow.com), [humaaans.com](https://humaaans.com)).
   1. Include results, recommendations, screenshots
-  1. Do not use a Bootstrap template. The point is that you build a custom design.
+  1. Do not use a [Bootstrap template](https://startbootstrap.com/). The point is that you build a custom design.
   1. Save your work and commit and push changes regularly
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
 1. When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
