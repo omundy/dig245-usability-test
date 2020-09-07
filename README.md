@@ -16,14 +16,14 @@ Conduct a usability test and present your results in a coded page!
 1. Create a list of five realistic tasks for a user to complete on that website. For example, ask them to find specific information or perform a task. `10 min`
 1. Designate someone from your group to be a test user. The test user from your group will then switch with the test user from *another* group (so that completing the five tasks is a new experience). If completing this assignment on your own then ask a roommate or friend to be your test user.
 1. After switching, ask your new test user to complete each task, one at a time. Record their responses noting the following `10 min`
-  1. You are testing the website, not the user. It is actually good if they make mistakes. You want to find issues!
-  1. Observe your test user and make notes but do not help or interfere. Watch their eye and mouse activity (recall the [eye-tracking](https://duckduckgo.com/?q=eye+tracking+usabilty&iax=images&ia=images) experiments from presentations)
-  1. Ask the user to “think aloud” to help your group understand why they are making choices.
-1. For each question, record the following:
-  1. **Time**: How long does it take to complete each task?
-  1. **Accuracy**: How many mistakes did they make and how fast did they recover?
-  1. **Recall**: How much do they remember on multiple uses? Did they get better at using the website over time?
-  1. **Emotional response**: How did they feel after using the website?
+	1. You are testing the website, not the user. It is actually good if they make mistakes. You want to find issues!
+	1. Observe your test user and make notes but do not help or interfere. Watch their eye and mouse activity (recall the [eye-tracking](https://duckduckgo.com/?q=eye+tracking+usabilty&iax=images&ia=images) experiments from presentations)
+	1. Ask the user to “think aloud” to help your group understand why they are making choices.
+	1. For each question, record the following:
+	1. **Time**: How long does it take to complete each task?
+	1. **Accuracy**: How many mistakes did they make and how fast did they recover?
+	1. **Recall**: How much do they remember on multiple uses? Did they get better at using the website over time?
+	1. **Emotional response**: How did they feel after using the website?
 
 
 
