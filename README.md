@@ -10,9 +10,9 @@ Create and conduct a usability test, then design and code a page to present your
 
 ## Part I: Create a usability test
 
-In your group, develop a series of tasks for a usability test. 
+In your group, develop a series of tasks for a usability test. `20 min`
 
-1. Begin by discussing key ideas from the usabilty readings, reviewing the steps in this assignment, and brainstorming on strategies for creating your test. Use this article for inspiration, "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)" `10 min`
+1. Begin by discussing key ideas from the usabilty readings, reviewing the steps in this assignment, and brainstorming on strategies for creating your test. Use this article for inspiration, "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)" `7 min`
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500). `3 min`
 1. Create a list of five realistic tasks (e.g. find information or perform a specific function) for a user to complete on that website.  `10 min`
 1. Designate someone from your group to be a test user.
@@ -22,7 +22,7 @@ In your group, develop a series of tasks for a usability test.
 
 ## Part II: Conduct your usability test
 
-In your group, perform the usability test and record data.
+In your group, perform the usability test and record data. `10`
 
 1. Ask your new test user to complete each task, one at a time.
 1. Record their responses noting the following `10 min`
@@ -39,7 +39,7 @@ In your group, perform the usability test and record data.
 
 ## Part III: Compile data
 
-In your group, compile all information you collected into a single report (like in a shared Google Doc). Include:
+In your group, compile all information you collected into a single report (like in a shared Google Doc). `15 min` Include:
 
 1. Your name(s), a link to and screenshot of website chosen for analysis
 1. List the 5 tasks you gave the user and include the data and a discussion of the result of each. Was the user successful in completing the task? Why or why not?
@@ -49,7 +49,7 @@ In your group, compile all information you collected into a single report (like 
 
 
 
-## Part IV: Prepare reports
+## Part IV: Design reports
 
 Each group member will **individually** design and code their own single-page website to present the results of the usability test.
 
