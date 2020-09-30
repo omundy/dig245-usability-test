@@ -44,7 +44,7 @@ In your group, compile all information you collected into a single report. Inclu
 1. List the 5 tasks you gave the user and include the data and a discussion of the result of each. Was the user successful in completing the task? Why or why not?
 1. Include a screenshot (⌘ + Shift + 4 on Mac) for each question, whether positive or negative, focussing on the element(s) of the website that led to the success or failure of the task.
 1. What recommendations could you make to the website owner?
-1. Use class materials on usability to inform your report.
+1. Use class materials on usability to inform your report. Use additional resources from the internet to help communicate your findings, for example "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
 
 
 
