@@ -22,7 +22,7 @@ In your group, develop a series of tasks for a usability test. `20 min`
 
 ## Part II: Conduct your usability test
 
-In your group, perform the usability test and record data. `10`
+In your group, perform the usability test and record data. `10 min`
 
 1. Ask your new test user to complete each task, one at a time.
 1. Record their responses noting the following `10 min`
