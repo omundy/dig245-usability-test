@@ -10,8 +10,9 @@ Create and conduct a usability test, then design and code a page to present your
 
 ## Part I: Create a usability test
 
-In your group, develop a series of tasks for a usability test.
+In your group, develop a series of tasks for a usability test. 
 
+1. Begin by discussing key ideas from the usabilty readings, reviewing the steps in this assignment, and brainstorming on strategies for creating your test. Use this article for inspiration, "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)" `10 min`
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500). `3 min`
 1. Create a list of five realistic tasks (e.g. find information or perform a specific function) for a user to complete on that website.  `10 min`
 1. Designate someone from your group to be a test user.
