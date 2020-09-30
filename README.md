@@ -38,7 +38,7 @@ In your group, perform the usability test and record data.
 
 ## Part III: Compile data
 
-In your group, compile all information you collected into a single report. Include:
+In your group, compile all information you collected into a single report (like in a shared Google Doc). Include:
 
 1. Your name(s), a link to and screenshot of website chosen for analysis
 1. List the 5 tasks you gave the user and include the data and a discussion of the result of each. Was the user successful in completing the task? Why or why not?
