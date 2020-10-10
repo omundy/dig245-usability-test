@@ -25,91 +25,163 @@
 			background-color: rgba(86, 61, 124, .15);
 		}
 
+		.footer-wrapper {
+			background-color: #f96f78;
+
+
+		}
+
 		/* default color */
 		.change-color-md {
 			color: inherit;
 			background-color: inherit;
+			font-size: 25px;
 		}
 
 		@media (min-width: 768px) {
+
 			/* new color on >= md screens */
 			.change-color-md {
-				color: red;
+				color: #fb3f7c;
 				/* use !important to override inherited classes */
-				background-color: purple !important;
+				background-color: #49C8DA !important;
+				font-size: inherit;
 			}
 		}
-
-
 	</style>
 </head>
 
 <body>
 
 
-	<div class="container">
-		<h3>container</h3>
+
+	<!-- a full width container using a custom class for colors and a bootstrap "spacing" class -->
+	<div class="container-fluid footer-wrapper py-4">
+
+		<!-- a row that has a heading only -->
+		<div class="row">
+			<h3>.container-fluid</h3>
+		</div>
+
+		<!-- regular width container -->
+		<div class="container">
+
+
+			<!-- a row that has a heading only -->
+			<div class="row">
+				<h3>.container</h3>
+			</div>
+
+
+			<!-- a row with 3 evenly-spaced columns -->
+			<div class="row">
+				<div class="col">
+					1 of 2
+				</div>
+				<div class="col">
+					2 of 2
+				</div>
+				<div class="col">
+					3
+				</div>
+			</div>
+
+
+			<!-- a row with 2 columns (3 + 9 = 12) -->
+			<div class="row">
+				<div class="col-3">
+					3
+				</div>
+				<div class="col-9">
+					9
+				</div>
+			</div>
+
+
+			<!-- a row with 4 columns -->
+			<!-- default (mobile) is full width, all 12 bootstrap columns -->
+			<!-- if device == sm, there will be 2 (6 bootstrap) columns -->
+			<!-- there is a maximum of 12 bootstrap columns so on sm devices the 2nd two will wrap to new row -->
+			<div class="row">
+				<div class="col-12 col-sm-6 col-lg-3">
+					col-12 col-sm-6 col-lg-3
+				</div>
+				<div class="col-12 col-sm-6 col-lg-3">
+					col-12 col-sm-6 col-lg-3
+				</div>
+				<div class="col-12 col-sm-6 col-lg-3">
+					col-12 col-sm-6 col-lg-3
+				</div>
+				<div class="col-12 col-sm-6 col-lg-3 change-color-md">
+					col-12 col-sm-6 col-lg-3
+				</div>
+			</div>
+
+
+		</div>
+
 	</div>
 
-	<div class="container">
+
+
+	<!-- a full-width container -->
+	<div class="container-fluid">
+
+		<!-- a row that has a heading only -->
+		<div class="row">
+			<h3>.container-fluid</h3>
+		</div>
+
+
+		<!-- a row with 3 evenly-spaced columns -->
 		<div class="row">
 			<div class="col">
-				col
+				1 of 2
 			</div>
 			<div class="col">
-				col
+				2 of 2
+			</div>
+			<div class="col">
+				3
 			</div>
 		</div>
+
+
+		<!-- a row with 2 columns (3 + 9 = 12) -->
 		<div class="row">
 			<div class="col-3">
-				col-3
+				3
 			</div>
 			<div class="col-9">
-				col-9
+				9
 			</div>
 		</div>
+
+
+		<!-- a row with 4 columns -->
+		<!-- default (mobile) is full width, all 12 bootstrap columns -->
+		<!-- if device == sm, there will be 2 (6 bootstrap) columns -->
+		<!-- there is a maximum of 12 bootstrap columns so on sm devices the 2nd two will wrap to new row -->
 		<div class="row">
-			<div class="col-12 col-md-3">
-				col-12 col-md-3
+			<div class="col-12 col-sm-6 col-lg-3">
+				col-12 col-sm-6 col-lg-3
 			</div>
-			<div class="col-12 col-md-9 change-color-md">
-				col-12 col-md-9
+			<div class="col-12 col-sm-6 col-lg-3">
+				col-12 col-sm-6 col-lg-3
+			</div>
+			<div class="col-12 col-sm-6 col-lg-3">
+				col-12 col-sm-6 col-lg-3
+			</div>
+			<div class="col-12 col-sm-6 col-lg-3 change-color-md">
+				col-12 col-sm-6 col-lg-3
 			</div>
 		</div>
+
+
+
 	</div>
 
 
-	<div class="container-fluid">
-		<h3>container-fluid</h3>
-	</div>
-
-
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col">
-				col
-			</div>
-			<div class="col">
-				col
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-3">
-				col-3
-			</div>
-			<div class="col-9">
-				col-9
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-12 col-md-3">
-				col-12 col-md-3
-			</div>
-			<div class="col-12 col-md-9">
-				col-12 col-md-9
-			</div>
-		</div>
-	</div>
 
 
 
