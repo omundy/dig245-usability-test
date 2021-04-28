@@ -1,6 +1,6 @@
-# A4: Usability Test w/ Bootstrap
+# DIG 245: Usability Test
 
-Create and conduct a usability test, then design and code a page to present your results!
+1) Create and 2) conduct a usability test, 3) compile, 4) design and code a page to present your results!
 
 ![usability diagram](assets/img/usability-diagram.png)
 
@@ -68,10 +68,6 @@ Each group member will **individually** design and code their own single-page we
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
 1. When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 1. Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqBKVeJP7OcyCypLadfn14zBA/edit) for grading.
-
-
-
-
 
 
 
