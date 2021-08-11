@@ -1,4 +1,5 @@
-# DIG 245: Usability Test
+
+# Usability Test
 
 Create and conduct a usability test, then compile data, and design and code a page to present your results!
 
@@ -69,7 +70,16 @@ Each group member will **individually** design and code their own single-page we
 1. Save your work and commit and push changes regularly
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
 1. When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
-1. Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqBKVeJP7OcyCypLadfn14zBA/edit) for grading.
+
+
+
+
+<details>
+<summary>Grading</summary>
+
+Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqBKVeJP7OcyCypLadfn14zBA/edit)
+
+</details>
 
 
 
@@ -77,6 +87,6 @@ Each group member will **individually** design and code their own single-page we
 
 ## Resources
 
- - Course [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css)
- - Bootstrap [documentation](https://getbootstrap.com/docs/)
- - "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
+- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md) references
+- Bootstrap [documentation](https://getbootstrap.com/docs/)
+- "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
