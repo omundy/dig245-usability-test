@@ -4,7 +4,7 @@ Create and conduct a usability test, then compile data, and design and code a pa
 
 ![usability diagram](assets/img/usability-diagram.png)
 
-<small>Usability falls in the overlap between the construction of the interface and a user's experience.</small>
+<sup>Usability falls in the overlap between the construction of the interface and a user's experience.</sup>
 
 
 
