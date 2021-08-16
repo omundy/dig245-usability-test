@@ -55,7 +55,8 @@ In your group, compile the following information you collected into a single rep
 Each group member will **individually** design and code their own single-page website to present the results of the usability test.
 
 1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
-1. Start your design by creating a wireframe using `designs/1.psd`.
+1. Create a [moodboard](https://www.google.com/search?q=moodboard+web+design&tbm=isch&ved=2ahUKEwijuZXLvrXyAhWmQUIHHYGHBHcQ2-cCegQIABAA&oq=moodboard+web+design&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoECAAQQzoECAAQHjoECAAQGFDqibAMWKeWsAxgr5ewDGgAcAB4AIABlwGIAfkHkgEDOS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=w1IaYePLNaaDieoPgY-SuAc&bih=1064&biw=1920) with designs you like to get started. Save it in Figma or this repository.
+1. Start your design by [creating a wireframe using Figma](https://www.figma.com/blog/how-to-wireframe/)
 1. Once you are satisfied with a starting layout in your wireframe, create multiple (3+) design iterations (see class [design presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing)).
 1. Look at relevant examples of good design to help you improve your own, while prioritizing communication of your groups' findings.
 1. Research similar designs and try new things. Use the actual content of your report in the design.
@@ -67,9 +68,13 @@ Each group member will **individually** design and code their own single-page we
 1. Use the Bootstrap framework and a [single page design](https://www.google.com/search?q=single+page+design) (for example [webflow.com](https://webflow.com), [humaaans.com](https://humaaans.com)).
 1. Include results, recommendations, screenshots, and data from above.
 1. Do not use a [Bootstrap template](https://startbootstrap.com/). One of the goals of this assignment is for you to create and code a **custom** design.
-1. Save your work and commit and push changes regularly
-1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
-1. When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+
+
+## Part VI: Publish
+- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+- [ ] Commit changes regularly.
+- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
+- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
