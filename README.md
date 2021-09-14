@@ -5,8 +5,39 @@ Create and conduct a usability test, then compile data, and design and code a pa
 
 ![usability diagram](assets/img/usability-diagram.png)
 
-<sup>Usability falls in the overlap between the construction of the interface and a user's experience.</sup>
+<sup>Usability is a concern for both user experience (UX) and user interface (UI).</sup>
 
+
+
+<details>
+<summary>Learning Objectives</summary>
+
+Students who complete this assignment will be able to:
+
+- List key ideas for increasing website usability, including testing, common issues, and best practices.  
+- Demonstrate how to plan, conduct, and compile results from a web usability test.
+- Create a custom responsive web page design using, editing, and creating their own content (text, diagrams, images, etc).   
+- Use HTML, CSS, JS, and the Bootstrap framework to code a responsive web page.
+
+</details>
+
+<details>
+<summary>Preparation</summary>
+
+Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
+
+- [Figma Design Lessons](https://www.figma.com/resources/learn-design/lessons/)
+- [Codecademy: CSS 4-1 Color](https://www.codecademy.com/learn/learn-css) (1-8)
+- [Codecademy: CSS 5-1 Typography](https://www.codecademy.com/learn/learn-css) (1-19)
+
+</details>
+
+
+
+## Instructions
+
+1. Part 1-3 - Work with your group
+1. Part 4-5 - Work on your own
 
 
 
@@ -71,10 +102,10 @@ Each group member will **individually** design and code their own single-page we
 
 
 ## Part VI: Publish
-- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
-- [ ] Commit changes regularly.
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
-- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+- [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+- Commit changes regularly.
+- Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
+- When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
