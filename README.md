@@ -77,9 +77,9 @@ In your group, compile this information into a single report in a shared Google 
 1. List the 5 tasks you gave the user, along with
     - The data you collected in the test
     - A discussion of the result of each. Was the user successful in completing the task? Why or why not?
-    - What recommendations would you make to the website owner?
+    - What recommendations would you make to the website owner? Refer to the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)) or [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html) as needed.
     - A [screenshot](https://github.com/omundy/learn-computers#how-to-make-a-screenshot) focusing on the element(s) of the website that led to the success or failure of the task.
-1. Cite class materials on usability to inform your report and communicate your findings.
+1. Cite class materials on usability and accessibility to inform your report and communicate your findings.
 
 
 
@@ -125,6 +125,8 @@ Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqB
 
 ## Resources
 
+- [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
+- [usability.gov: System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
