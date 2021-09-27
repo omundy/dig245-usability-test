@@ -61,6 +61,7 @@ In your group, perform the usability test and record data. `10–15 min`
 	1. Your goal is to test the website (not the user) in order to discover issues. It is therefore good if your test user has trouble with any of your tasks.
 	1. Observe your test user and make notes but do not help or interfere. Watch their eye and mouse activity (recall the [eye-tracking experiments](https://duckduckgo.com/?q=eye+tracking+usabilty&iax=images&ia=images) from class presentations)
 	1. Ask the user to “think aloud” to help your group understand why they are making choices.
+    1. Use [NN/g](https://www.nngroup.com/articles/talking-to-users/) suggestions for gathering data, like "Talk less and learn more".
 1. For each question, record:
 	1. **Time**: How long does it take to complete each task?
 	1. **Accuracy**: How many mistakes did they make and how fast did they recover?
