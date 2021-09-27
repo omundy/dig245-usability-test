@@ -78,7 +78,7 @@ In your group, compile this information into a single report in a shared Google 
 1. List the 5 tasks you gave the user, along with
     - The data you collected in the test
     - A discussion of the result of each. Was the user successful in completing the task? Why or why not?
-    - What recommendations would you make to the website owner? Refer to the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)) or [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html) as needed.
+    - What recommendations would you make to the website owner? Refer to the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) or [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html) as needed.
     - A [screenshot](https://github.com/omundy/learn-computers#how-to-make-a-screenshot) focusing on the element(s) of the website that led to the success or failure of the task.
 1. Cite class materials on usability and accessibility to inform your report and communicate your findings.
 
