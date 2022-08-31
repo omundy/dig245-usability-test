@@ -8,15 +8,16 @@ Create and conduct a usability test, then compile data, and design and code a pa
 <sup>Usability is a concern for both user experience (UX) and user interface (UI).</sup>
 
 
+## Instructions
 
 <details>
 <summary>Learning Objectives</summary>
 
 Students who complete this assignment will be able to:
 
-- List key ideas for increasing website usability, including testing, common issues, and best practices.  
+- List key ideas for increasing website usability, including testing, common issues, and best practices.
 - Demonstrate how to plan, conduct, and compile results from a web usability test.
-- Create a custom responsive web page design using, editing, and creating their own content (text, diagrams, images, etc).   
+- Create a custom responsive web page design using, editing, and creating their own content (text, diagrams, images, etc).
 - Use HTML, CSS, JS, and the Bootstrap framework to code a responsive web page.
 
 </details>
@@ -34,10 +35,10 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 
-## Instructions
+## Assignment
 
-Part 1-3 - Work with your group<br>
-Part 4-5 - Work on your own
+Parts 1-3 - Work with your group<br>
+Parts 4-5 - Work on your own
 
 
 
@@ -47,7 +48,7 @@ In your group, develop a series of tasks for a usability test. `10–15 min`
 
 1. Discuss key ideas from the usability readings, review the steps in this assignment, and brainstorm on strategies for creating your test. See [resources](#resources) below for more inspiration.
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500).
-1. Create a list of five realistic tasks (e.g. find information or perform a specific function) for a user to complete on that website.  
+1. Create a list of five realistic tasks (e.g. find information or perform a specific function) for a user to complete on that website.
 1. Designate someone from your group to be the test user. This person will switch with a test user from *another* group (so that completing the five tasks is a new experience). If completing this assignment on your own ask a roommate or friend to be a test user.
 
 
@@ -88,7 +89,7 @@ In your group, compile this information into a single report in a shared Google 
 
 Each group member will **individually** design and code their own single-page website to present the results of the usability test.
 
-1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
+
 1. Create a [moodboard](https://www.google.com/search?q=moodboard+web+design&tbm=isch&ved=2ahUKEwijuZXLvrXyAhWmQUIHHYGHBHcQ2-cCegQIABAA&oq=moodboard+web+design&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoECAAQQzoECAAQHjoECAAQGFDqibAMWKeWsAxgr5ewDGgAcAB4AIABlwGIAfkHkgEDOS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=w1IaYePLNaaDieoPgY-SuAc&bih=1064&biw=1920) with designs you like to get started. Save it in Figma or this repository.
 1. Start your design by [creating a wireframe using Figma](https://www.figma.com/blog/how-to-wireframe/)
 1. Once you are satisfied with a starting layout in your wireframe, create multiple (3+) design iterations (see class [design presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing)).
@@ -98,7 +99,10 @@ Each group member will **individually** design and code their own single-page we
 
 ## Part V – Code your design
 
-1. Once you have a satisfactory design, code your design inside `index.html`.
+Once you are satisfied with your design iterations...
+
+1. [Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
+1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use the Bootstrap framework and a [single page design](https://www.google.com/search?q=single+page+design) (for example [webflow.com](https://webflow.com), [humaaans.com](https://humaaans.com)).
 1. Include results, recommendations, screenshots, and data from above.
 1. Do not use a [Bootstrap template](https://startbootstrap.com/). One of the goals of this assignment is for you to create and code a **custom** design.
@@ -107,7 +111,7 @@ Each group member will **individually** design and code their own single-page we
 ## Part VI – Publish
 - [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 - Commit changes regularly.
-- Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
+- Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
 - When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a). Make sure to include a link to your Figma designs in the Moodle post.
 
 
@@ -128,6 +132,6 @@ Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqB
 
 - [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 - [usability.gov: System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
