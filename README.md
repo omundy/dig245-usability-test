@@ -33,6 +33,18 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 </details>
 
+<details>
+<summary>Rubric</summary>
+
+See Moodle.
+
+</details>
+
+
+
+
+
+
 
 
 ## Assignment
@@ -117,12 +129,7 @@ Once you are satisfied with your design iterations...
 
 
 
-<details>
-<summary>Grading</summary>
 
-Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqBKVeJP7OcyCypLadfn14zBA/edit)
-
-</details>
 
 
 
