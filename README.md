@@ -3,9 +3,8 @@
 
 Create and conduct a usability test, then compile data, and design and code a page to present your results!
 
-<img src="assets/img/usability-diagram.png" width="600">
+<img src="assets/img/usability-diagram.png" width="100%">
 
-<sup>Usability is a concern for both user experience (UX) and user interface (UI).</sup>
 
 
 ## Instructions
@@ -101,12 +100,12 @@ In your group, compile this information into a single report in a shared Google 
 
 Each group member will **individually** design and code their own single-page website to present the results of the usability test.
 
-
-1. Create a [moodboard](https://www.google.com/search?q=moodboard+web+design&tbm=isch&ved=2ahUKEwijuZXLvrXyAhWmQUIHHYGHBHcQ2-cCegQIABAA&oq=moodboard+web+design&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoECAAQQzoECAAQHjoECAAQGFDqibAMWKeWsAxgr5ewDGgAcAB4AIABlwGIAfkHkgEDOS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=w1IaYePLNaaDieoPgY-SuAc&bih=1064&biw=1920) with designs you like to get started. Save it in Figma or this repository.
 1. Start your design by [creating a wireframe using Figma](https://www.figma.com/blog/how-to-wireframe/)
-1. Once you are satisfied with a starting layout in your wireframe, create multiple (3+) design iterations (see class [design presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing)).
-1. Look at relevant examples of good design to help you improve your own, while prioritizing communication of your groups' findings.
-1. Research similar designs and try new things. Use the actual content of your report in the design.
+1. Once you are satisfied with a starting layout in your wireframe, create multiple (3+) design iterations, progressively improving your work:
+	1. Use the loop from the [design presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing))
+	1. Look at relevant examples of good design to help you improve your own, while prioritizing communication of your groups' findings.
+	1. Research similar designs and try new things. Use the actual content of your report in the design.
+	1. Create a [moodboard](https://www.google.com/search?q=moodboard+web+design&tbm=isch&ved=2ahUKEwijuZXLvrXyAhWmQUIHHYGHBHcQ2-cCegQIABAA&oq=moodboard+web+design&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoECAAQQzoECAAQHjoECAAQGFDqibAMWKeWsAxgr5ewDGgAcAB4AIABlwGIAfkHkgEDOS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=w1IaYePLNaaDieoPgY-SuAc&bih=1064&biw=1920) with designs you like. Save it in Figma or this repository.
 
 
 ## Part V – Code your design
@@ -128,7 +127,22 @@ Once you are satisfied with your design iterations...
 
 
 
+<!--
 
+HIGHLIGHTS
+
+2022
+https://kostasmateerstudent.github.io/dig245-everyone-hearts-math/
+https://etgeorge.github.io/dig245-everyone-hearts-math/
+https://drew-beamer.github.io/dig245-everyone-hearts-math/
+
+2021
+https://erlee1.github.io/dig245-usability-test/index.html
+https://thqtcher.github.io/dig245-a4/index.html
+https://casigl.github.io/dig245-usability-test/index.html
+https://emmelton.github.io/dig245-usability-test/index.html
+
+-->
 
 
 
