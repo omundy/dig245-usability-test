@@ -59,7 +59,7 @@ In your group, develop a series of tasks for a usability test. `10–15 min`
 
 1. Discuss key ideas from the usability readings, review the steps in this assignment, and brainstorm on strategies for creating your test. See [resources](#resources) below for more inspiration.
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500).
-1. Create a list of five realistic tasks (e.g. find information or perform a specific function) for a user to complete on that website.
+1. Create a list of five [realistic tasks](https://www.nngroup.com/articles/task-scenarios-usability-testing/) (e.g. find information or perform a specific function) for a user to complete on that website.
 1. Designate someone from your group to be the test user. This person will switch with a test user from *another* group (so that completing the five tasks is a new experience). If completing this assignment on your own ask a roommate or friend to be a test user.
 
 
@@ -132,15 +132,20 @@ Once you are satisfied with your design iterations...
 HIGHLIGHTS
 
 2022
-https://kostasmateerstudent.github.io/dig245-everyone-hearts-math/
-https://etgeorge.github.io/dig245-everyone-hearts-math/
-https://drew-beamer.github.io/dig245-everyone-hearts-math/
+https://cha1hee.github.io/dig245-usability-test/
+https://limilano.github.io/dig245-usability-test
+https://drew-beamer.github.io/dig245-usability-test/ and
+https://www.figma.com/file/oCfvlU7ym0rHH0AGqBx8Lf/Untitled?node-id=0%3A1
+https://alli679.github.io/dig245-usability-test/
+
 
 2021
 https://erlee1.github.io/dig245-usability-test/index.html
 https://thqtcher.github.io/dig245-a4/index.html
 https://casigl.github.io/dig245-usability-test/index.html
 https://emmelton.github.io/dig245-usability-test/index.html
+https://mengfw-02.github.io/dig245-usability-test/index.html
+https://yutongzhong.github.io/dig245-a4/index.html
 
 -->
 
