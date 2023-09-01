@@ -1,13 +1,13 @@
 
 # Usability Test
 
-Create and conduct a usability test, then compile data, and design and code a page to present your results!
-
 <img src="assets/img/usability-diagram.png" width="100%">
 
 
 
-## Instructions
+## Introduction
+
+Create and conduct a usability test, then compile data, and design and code a page to present your results!
 
 <details>
 <summary>Learning Objectives</summary>
@@ -34,9 +34,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 <details>
 <summary>Rubric</summary>
-
 See Moodle.
-
 </details>
 
 
@@ -46,7 +44,7 @@ See Moodle.
 
 
 
-## Assignment
+## Setup
 
 Parts 1-3 - Work with your group<br>
 Parts 4-5 - Work on your own
@@ -112,7 +110,7 @@ Each group member will **individually** design and code their own single-page we
 
 Once you are satisfied with your design iterations...
 
-1. [Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use the Bootstrap framework and a [single page design](https://www.google.com/search?q=single+page+design) (for example [webflow.com](https://webflow.com), [humaaans.com](https://humaaans.com)).
 1. Include results, recommendations, screenshots, and data from above.
@@ -120,10 +118,12 @@ Once you are satisfied with your design iterations...
 
 
 ## Part VI – Publish
-- [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
-- Commit changes regularly.
-- Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
-- When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a). Make sure to include a link to your Figma designs in the Moodle post.
+
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. Commit changes regularly.
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
+1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
+
 
 
 
@@ -156,8 +156,9 @@ https://yutongzhong.github.io/dig245-a4/index.html
 
 ## Resources
 
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 - [usability.gov: System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
