@@ -26,7 +26,6 @@ Students who complete this assignment will be able to:
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
-- 📚 "Usability & Forms" (chapter 5) in Critical Web Design
 - [Figma Design Lessons](https://www.figma.com/resources/learn-design/lessons/)
 - [Codecademy: CSS 4-1 Color](https://www.codecademy.com/learn/learn-css) (1-8)
 - [Codecademy: CSS 5-1 Typography](https://www.codecademy.com/learn/learn-css) (1-19)
@@ -41,8 +40,16 @@ See Moodle.
 
 
 
+## Context
 
-
+- 📚 "Usability & Forms" (chapter 5) in Critical Web Design
+    - Chapter example(s): [AIGA usability test](https://omundy.github.io/critical-web-design-book/05-usability/examples/usability-aiga/)
+- Articles
+    - 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
+    - 📚 Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
+    - 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
+    - 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
+    - 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
 
 
 ## Setup
@@ -161,8 +168,3 @@ https://yutongzhong.github.io/dig245-a4/index.html
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - W3C [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 - usability.gov [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-- Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
-- 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
-- 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
-- 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
-- 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
