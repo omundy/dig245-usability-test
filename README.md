@@ -26,6 +26,7 @@ Students who complete this assignment will be able to:
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
+- 📚 "Usability & Forms" (chapter 5) in Critical Web Design
 - [Figma Design Lessons](https://www.figma.com/resources/learn-design/lessons/)
 - [Codecademy: CSS 4-1 Color](https://www.codecademy.com/learn/learn-css) (1-8)
 - [Codecademy: CSS 5-1 Typography](https://www.codecademy.com/learn/learn-css) (1-19)
@@ -55,7 +56,7 @@ Parts 4-5 - Work on your own
 
 In your group, develop a series of tasks for a usability test. `10–15 min`
 
-1. Discuss key ideas from the usability readings, review the steps in this assignment, and brainstorm on strategies for creating your test. See [resources](#resources) below for more inspiration.
+1. Discuss key ideas from the usability readings, review the steps in this assignment, and brainstorm on strategies for creating your test. See [resources](#resources) below for more articles.
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500).
 1. Create a list of five [realistic tasks](https://www.nngroup.com/articles/task-scenarios-usability-testing/) (e.g. find information or perform a specific function) for a user to complete on that website.
 1. Designate someone from your group to be the test user. This person will switch with a test user from *another* group (so that completing the five tasks is a new experience). If completing this assignment on your own ask a roommate or friend to be a test user.
@@ -100,7 +101,7 @@ Each group member will **individually** design and code their own single-page we
 
 1. Start your design by [creating a wireframe using Figma](https://www.figma.com/blog/how-to-wireframe/)
 1. Once you are satisfied with a starting layout in your wireframe, create multiple (3+) design iterations, progressively improving your work:
-	1. Use the loop from the [design presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing))
+	1. Use the loop from the class responsive design presentations
 	1. Look at relevant examples of good design to help you improve your own, while prioritizing communication of your groups' findings.
 	1. Research similar designs and try new things. Use the actual content of your report in the design.
 	1. Create a [moodboard](https://www.google.com/search?q=moodboard+web+design&tbm=isch&ved=2ahUKEwijuZXLvrXyAhWmQUIHHYGHBHcQ2-cCegQIABAA&oq=moodboard+web+design&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoECAAQQzoECAAQHjoECAAQGFDqibAMWKeWsAxgr5ewDGgAcAB4AIABlwGIAfkHkgEDOS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=w1IaYePLNaaDieoPgY-SuAc&bih=1064&biw=1920) with designs you like. Save it in Figma or this repository.
@@ -156,9 +157,12 @@ https://yutongzhong.github.io/dig245-a4/index.html
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
-- [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
-- [usability.gov: System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-- Bootstrap [documentation](https://getbootstrap.com/docs/)
-- "[The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/)"
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+- W3C [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
+- usability.gov [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+- Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
+- 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
+- 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
+- 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
+- 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
