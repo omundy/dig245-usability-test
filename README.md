@@ -120,7 +120,7 @@ Once you are satisfied with your design iterations...
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
-1. Use the Bootstrap framework and a [single page design](https://www.google.com/search?q=single+page+design) (for example [webflow.com](https://webflow.com), [humaaans.com](https://humaaans.com)).
+1. Use the Bootstrap framework and a [single page design](https://github.com/omundy/dig245-critical-web-design#single-page-design).
 1. Include results, recommendations, screenshots, and data from above.
 1. Do not use a [Bootstrap template](https://startbootstrap.com/). One of the goals of this assignment is for you to create and code a **custom** design.
 
