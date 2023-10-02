@@ -85,6 +85,7 @@ In your group, perform the usability test and record data. `10–15 min`
 	1. **Accuracy**: How many mistakes did they make and how fast did they recover?
 	1. **Recall**: How much do they remember on multiple uses? Did they get better at using the website over time?
 	1. **Emotional response**: How did they feel after using the website?
+1. Finally, ask your user to complete the 10-question System Usability Scale (SUS) survey https://measuringu.com/sus/ and record the data.     
 
 
 
