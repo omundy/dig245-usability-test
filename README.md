@@ -94,6 +94,7 @@ In your group, perform the usability test and record data. `10–15 min`
 In your group, compile this information into a single report in a shared Google Doc. `10–15 min`
 
 1. Each of your name(s), a link to and screenshot of the website chosen for analysis
+1. List the test user's responses (a number 1-5) to each of the 10 prompts in the System Usability Scale (SUS) at https://measuringu.com/sus/. You will use Javascript later in this chapter to perform the math required to tally the SUS score.
 1. List the 5 tasks you gave the user, along with
     - The data you collected in the test
     - A discussion of the result of each. Was the user successful in completing the task? Why or why not?
@@ -124,6 +125,7 @@ Once you are satisfied with your design iterations...
 1. Use the Bootstrap framework and a [single page design](https://github.com/omundy/dig245-critical-web-design#single-page-design).
 1. Include results, recommendations, screenshots, and data from above.
 1. Do not use a [Bootstrap template](https://startbootstrap.com/). One of the goals of this assignment is for you to create and code a **custom** design.
+1. Code the SUS form (see instructions in the Critical Web Design book)
 
 
 ## Part VI – Publish
