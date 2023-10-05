@@ -138,27 +138,26 @@ Once you are satisfied with your design iterations...
 
 
 
-<!--
-
-HIGHLIGHTS
-
-2022
-https://cha1hee.github.io/dig245-usability-test/
-https://limilano.github.io/dig245-usability-test
-https://drew-beamer.github.io/dig245-usability-test/ and
-https://www.figma.com/file/oCfvlU7ym0rHH0AGqBx8Lf/Untitled?node-id=0%3A1
-https://alli679.github.io/dig245-usability-test/
 
 
-2021
-https://erlee1.github.io/dig245-usability-test/index.html
-https://thqtcher.github.io/dig245-a4/index.html
-https://casigl.github.io/dig245-usability-test/index.html
-https://emmelton.github.io/dig245-usability-test/index.html
-https://mengfw-02.github.io/dig245-usability-test/index.html
-https://yutongzhong.github.io/dig245-a4/index.html
+<details>
+<summary>Past examples</summary>
 
--->
+- 2022
+    [Lillian](https://limilano.github.io/dig245-usability-test)
+    [Drew](https://drew-beamer.github.io/dig245-usability-test/) ([Figma](https://www.figma.com/file/oCfvlU7ym0rHH0AGqBx8Lf/Untitled?node-id=0%3A1))
+    [Pauline](https://cha1hee.github.io/dig245-usability-test/)
+    [Alexander](https://alli679.github.io/dig245-usability-test/)  
+- 2021
+    [Erina](https://erlee1.github.io/dig245-usability-test/)
+    [Caroline](https://casigl.github.io/dig245-usability-test/)
+    [Emma](https://emmelton.github.io/dig245-usability-test/)
+    <!-- [Meng](https://mengfw-02.github.io/dig245-usability-test/) 
+- 2020
+    [Jenny](https://yutongzhong.github.io/dig245-a4/)
+    [Thatcher](https://thqtcher.github.io/dig245-a4/) -->
+
+</details>
 
 
 
