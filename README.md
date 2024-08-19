@@ -40,28 +40,33 @@ See Moodle.
 
 
 
-## Context
+## Concept
 
-- 📚 "Usability & Forms" (chapter 5) in Critical Web Design
-    - Chapter example(s): [AIGA usability test](https://omundy.github.io/critical-web-design-book/05-usability/examples/usability-aiga/)
-- Articles
-    - 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
-    - 📚 Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
-    - 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
-    - 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
-    - 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
+- 📚 "Usability & Forms" (chapter 5) in *Critical Web Design*
 
 
-## Setup
+### Inspiration
 
-Parts 1-3 - Work with your group<br>
-Parts 4-5 - Work on your own
+- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-5-usability--forms): 
+[AIGA usability test](https://omundy.github.io/critical-web-design-book/05-usability/examples/usability-aiga/)
+
+
+### Articles
+
+- 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
+- 📚 Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
+- 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
+- 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
+- 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
+
+
+
 
 
 
 ## Part I – Create the test
 
-In your group, develop a series of tasks for a usability test. `10–15 min`
+***In your group***, develop a series of tasks for a usability test. `10–15 min`
 
 1. Discuss key ideas from the usability readings, review the steps in this assignment, and brainstorm on strategies for creating your test. See [resources](#resources) below for more articles.
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500).
@@ -72,7 +77,7 @@ In your group, develop a series of tasks for a usability test. `10–15 min`
 
 ## Part II – Conduct your test
 
-In your group, perform the usability test and record data. `10–15 min`
+***In your group***, perform the usability test and record data. `10–15 min`
 
 1. Ask your new test user (from here on they are in your group now) to complete each task, one at a time.
 1. Record their responses noting the following
@@ -91,7 +96,7 @@ In your group, perform the usability test and record data. `10–15 min`
 
 ## Part III – Compile data
 
-In your group, compile this information into a single report in a shared Google Doc. `10–15 min`
+***In your group***, compile this information into a single report in a shared Google Doc. `10–15 min`
 
 1. Each of your name(s), a link to and screenshot of the website chosen for analysis
 1. List the test user's responses (a number 1-5) to each of the 10 prompts in the System Usability Scale (SUS) at https://measuringu.com/sus/. You will use Javascript later in this chapter to perform the math required to tally the SUS score.
@@ -106,7 +111,7 @@ In your group, compile this information into a single report in a shared Google 
 
 ## Part IV – Design
 
-Each group member will **individually** design and code their own single-page website to present the results of the usability test.
+***On your own*** - Each group member will **individually** design and code their own single-page website to present the results of the usability test.
 
 1. Start your design by [creating a wireframe using Figma](https://www.figma.com/blog/how-to-wireframe/)
 1. Once you are satisfied with a starting layout in your wireframe, create multiple (3+) design iterations, progressively improving your work:
@@ -118,7 +123,7 @@ Each group member will **individually** design and code their own single-page we
 
 ## Part V – Code your design
 
-Once you are satisfied with your design iterations...
+***On your own*** - Once you are satisfied with your design iterations...
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
