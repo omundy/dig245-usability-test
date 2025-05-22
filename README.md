@@ -148,6 +148,10 @@ See Moodle.
 <details>
 <summary>Past examples</summary>
 
+- 2024
+	[Pacis](https://n-pacis.github.io/dig245-usability-test/)
+	[Khai](https://khainguyenn.github.io/dig245-usability-test/)
+	[Julia](https://siqjulia.github.io/dig245-usability-test/)
 - 2023
     [Jeremy](https://jeremykemp1.github.io/dig245-usability-test/)
     [Yumna](https://yuahmed.github.io/dig245-usability-test/)
