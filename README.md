@@ -47,8 +47,8 @@ See Moodle.
 
 ### Inspiration
 
-- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-5-usability--forms): 
-[AIGA usability test](https://omundy.github.io/critical-web-design-book/05-usability/examples/usability-aiga/)
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-5-usability--forms): 
+[AIGA usability test](https://criticalwebdesign.github.io/book/05-usability/examples/usability-aiga/)
 
 
 ### Articles
