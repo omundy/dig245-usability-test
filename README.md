@@ -9,8 +9,11 @@
 
 Create and conduct a usability test, then compile data, and design and code a page to present your results!
 
+
 <details>
-<summary>Learning Objectives</summary>
+<summary>Learning Objectives, Preparation, Rubric</summary>
+
+### Learning Objectives
 
 Students who complete this assignment will be able to:
 
@@ -19,10 +22,8 @@ Students who complete this assignment will be able to:
 - Create a custom responsive web page design using, editing, and creating their own content (text, diagrams, images, etc).
 - Use HTML, CSS, JS, and the Bootstrap framework to code a responsive web page.
 
-</details>
 
-<details>
-<summary>Preparation</summary>
+### Preparation
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
@@ -30,34 +31,14 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [Codecademy: CSS 4-1 Color](https://www.codecademy.com/learn/learn-css) (1-8)
 - [Codecademy: CSS 5-1 Typography](https://www.codecademy.com/learn/learn-css) (1-19)
 
-</details>
 
-<details>
-<summary>Rubric</summary>
+### Rubric
+
 See Moodle.
+
 </details>
 
 
-
-
-## Concept
-
-- 📚 "Usability & Forms" (chapter 5) in *Critical Web Design*
-
-
-### Inspiration
-
-- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-5-usability--forms): 
-[AIGA usability test](https://criticalwebdesign.github.io/book/05-usability/examples/usability-aiga/)
-
-
-### Articles
-
-- 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
-- 📚 Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
-- 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
-- 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
-- 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
 
 
 
@@ -125,7 +106,7 @@ See Moodle.
 
 ***On your own*** - Once you are satisfied with your design iterations...
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
+1. Fork this repository and clone it to your machine.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use the Bootstrap framework and a [single page design](https://github.com/omundy/dig245-critical-web-design#single-page-design).
 1. Include results, recommendations, screenshots, and data from above.
@@ -142,6 +123,40 @@ See Moodle.
 
 
 
+
+
+
+
+
+
+## Resources
+
+### Technology
+
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+- W3C [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
+- usability.gov [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+
+
+
+
+
+### Inspiration
+
+- 📚 "Usability & Forms" (chapter 5) in *Critical Web Design*
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-5-usability--forms): 
+[AIGA usability test](https://criticalwebdesign.github.io/book/05-usability/examples/usability-aiga/)
+- Related projects (and tags [#grid](https://criticalwebdesign.github.io/index#grid)) in the [Critical Web Design Index](https://criticalwebdesign.github.io/index/)
+
+
+### Articles
+
+- 📚 Jakob Nielsen [Usability 101: Introduction to Usability](http://www.useit.com/alertbox/20030825.html) (2012)
+- 📚 Brian Jackson [The Ultimate Step-by-Step Guide on Website Usability Testing](https://kinsta.com/blog/website-usability-testing/) (2022)
+- 📚 Dmitry Fadeyev [10 Usability Findings and Guidelines](https://www.smashingmagazine.com/2009/09/10-useful-usability-findings-and-guidelines/) (2009)
+- 📚 Cyndi Wiley [Nothing About Us Without Us…Including Pizza: The Practice of Designing with Accessibility in Mind](https://educators.aiga.org/nothing-about-us-without-us-including-pizza-the-practice-of-designing-with-accessibility-in-mind/) (2020) 
+- 📚 Amy Schade, Yunnuo Cheng and Samyukta Sherugar [Top Ten (Enduring) Mistakes in Web Design](https://www.nngroup.com/articles/top-10-enduring/) (2016)
 
 
 
@@ -173,14 +188,3 @@ See Moodle.
 
 </details>
 
-
-
-
-
-
-## Resources
-
-- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
-- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
-- W3C [Web Content Accessibility Guidelines (WCAG) 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
-- usability.gov [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
