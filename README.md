@@ -164,14 +164,13 @@ See Moodle.
 <summary>Past examples</summary>
 
 - 2025
-    [Dmytro](https://dmku33.github.io/web-dev-usability-test/usability-dashboard.html)
+    [Dmytro](https://dmku33.github.io/web-dev-usability-test/)
     [Matthew](https://matthewpearso.github.io/dig245-usability-test/)
 - 2024
 	[Pacis](https://n-pacis.github.io/dig245-usability-test/)
 	[Khai](https://khainguyenn.github.io/dig245-usability-test/)
 	[Julia](https://siqjulia.github.io/dig245-usability-test/)
 - 2023
-    [Jeremy](https://jeremykemp1.github.io/dig245-usability-test/)
     [Yumna](https://yuahmed.github.io/dig245-usability-test/)
     [Tyler](https://tyleryandt18.github.io/dig245-usability-test/)
     [Will](https://wcox2.github.io/dig245-usability-test/)
