@@ -51,7 +51,7 @@ See Moodle.
 
 1. Discuss key ideas from the usability readings, review the steps in this assignment, and brainstorm on strategies for creating your test. See [resources](#resources) below for more articles.
 1. Select a website to test that is relatively-popular, locally or [across the whole internet](https://moz.com/top500).
-1. Create a list of five [realistic tasks](https://www.nngroup.com/articles/task-scenarios-usability-testing/) (e.g. find information or perform a specific function) for a user to complete on that website.
+1. In a shared Google Doc, create a list of five [realistic tasks](https://www.nngroup.com/articles/task-scenarios-usability-testing/) (e.g. find information or perform a specific function) for a user to complete on that website.
 1. Designate someone from your group to be the test user. This person will switch with a test user from *another* group (so that completing the five tasks is a new experience). If completing this assignment on your own ask a roommate or friend to be a test user.
 
 
@@ -163,6 +163,9 @@ See Moodle.
 <details>
 <summary>Past examples</summary>
 
+- 2025
+    [Dmytro](https://dmku33.github.io/web-dev-usability-test/usability-dashboard.html)
+    [Matthew](https://matthewpearso.github.io/dig245-usability-test/)
 - 2024
 	[Pacis](https://n-pacis.github.io/dig245-usability-test/)
 	[Khai](https://khainguyenn.github.io/dig245-usability-test/)
@@ -174,17 +177,18 @@ See Moodle.
     [Will](https://wcox2.github.io/dig245-usability-test/)
 - 2022
     [Lillian](https://limilano.github.io/dig245-usability-test)
-    [Drew](https://drew-beamer.github.io/dig245-usability-test/) ([Figma](https://www.figma.com/file/oCfvlU7ym0rHH0AGqBx8Lf/Untitled?node-id=0%3A1))
     [Pauline](https://cha1hee.github.io/dig245-usability-test/)
     [Alexander](https://alli679.github.io/dig245-usability-test/)  
+    <!-- [Drew](https://drew-beamer.github.io/dig245-usability-test/) -->
 - 2021
     [Erina](https://erlee1.github.io/dig245-usability-test/)
     [Caroline](https://casigl.github.io/dig245-usability-test/)
     [Emma](https://emmelton.github.io/dig245-usability-test/)
-    <!-- [Meng](https://mengfw-02.github.io/dig245-usability-test/) 
+    <!-- [Meng](https://mengfw-02.github.io/dig245-usability-test/) -->
 - 2020
-    [Jenny](https://yutongzhong.github.io/dig245-a4/)
-    [Thatcher](https://thqtcher.github.io/dig245-a4/) -->
+    [Thatcher](https://thqtcher.github.io/dig245-a4/) 
+    <!-- [Jenny](https://yutongzhong.github.io/dig245-a4/) -->
+    
 
 </details>
 
